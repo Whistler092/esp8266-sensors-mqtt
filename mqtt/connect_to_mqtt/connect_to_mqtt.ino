@@ -4,9 +4,9 @@
 #include <Wire.h>
 
 // Connect to the WiFi
-const char* ssid = "WIFI";
-const char* password = "WIFIPASS";
-const char* mqtt_server = "192.168.0.22";
+const char* ssid = "APT 442";
+const char* password = "lol123451+";
+const char* mqtt_server = "192.168.0.17";
 char* ip = "";
 
 WiFiClient espClient;
